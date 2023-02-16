@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on mastering the fundamentals of Computer Science and Programming.
+- 🔭 I’m currently building side-projects, working on contributing to open source and applying for developer jobs.
 - 🌱 I completed the FullStack Software Engineering curriculum on App Academy Open.
 - 👯 I’m looking to collaborate on projects that have a great socio-economic impact.
 - 🤔 I’m looking for mentorship.
