@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on mastering the fundamentals of Computer Science and Programming.
-- 🌱 I’m currently learning full-stack web development on App Academy Open.
+- 🌱 I completed the FullStack Software Engineering curriculum on App Academy Open.
 - 👯 I’m looking to collaborate on projects that have a great socio-economic impact.
 - 🤔 I’m looking for mentorship.
 - 💬 Ask me: why I love programming
-- 📫 How to reach me: Email me @michellemounde@gmail.com or Message me on LinkedIn @moundem
+- 📫 How to reach me: Message me on LinkedIn @moundem
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I made a career switch from QS(Quantity Surveying) to CS(Customer Service) and I am now making a career switch from CS(Customer Service) to CS(Computer Science).
 
