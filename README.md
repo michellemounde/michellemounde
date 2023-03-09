@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Skills:
 ### :star2: Proficient
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
        title="JavaScript" alt="JavaScript" width="75" height="75"/>&nbsp;
@@ -48,8 +49,9 @@ Here are some ideas to get you started:
 
 ### :sparkles: Familiar
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" 
        title="PostgreSQL" alt="PostgreSQL" width="75" height="75"/>&nbsp;
+  <i class="devicon-flask-original-wordmark" title="Flask" alt="Flask" width="75" height="75"/>&nbsp;></i>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" 
        title="Flask" alt="Flask" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" 
