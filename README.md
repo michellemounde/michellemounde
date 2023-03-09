@@ -28,7 +28,7 @@ Here are some ideas to get you started:
        title="ExpressJS" alt="Express" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
        title="Redux" alt="Redux " width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"
        title="HTML5" alt="HTML" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" 
        title="CSS3" alt="CSS" width="75" height="75"/>&nbsp;
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ### :sparkles: Familiar
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" 
        title="PostgreSQL" alt="PostgreSQL" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" 
        title="Flask" alt="Flask" width="75" height="75"/>&nbsp;
