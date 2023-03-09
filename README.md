@@ -23,9 +23,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
        title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
-       title="React" alt="React" width="40" height="40"/>&nbsp;
+       title="React" alt="React" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
-       title="ExpressJS" alt="Express" width="50" height="50"/>&nbsp;
+       title="ExpressJS" alt="Express" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
        title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
@@ -37,9 +37,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
        title="NPM" alt="NPM " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
-       title="Git" **alt="Git" width="50" height="50"/>
+       title="Git" **alt="Git" width="75" height="75"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"
-       title="Github" **alt="Github" width="50" height="50"/>
+       title="Github" **alt="Github" width="75" height="75"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"
        title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"
