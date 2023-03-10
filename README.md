@@ -40,14 +40,14 @@ Here are some ideas to get you started:
        title="Git" **alt="Git" width="75" height="75"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"
        title="Github" **alt="Github" width="75" height="75"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"
-       title="Docker" **alt="Docker" width="75" height="75"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"
        title="Visual Studio Code" **alt="Visual Studio Code" width="75" height="75"/>
 </div>
 
 ### :sparkles: Familiar
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"
+       title="Docker" **alt="Docker" width="75" height="75"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" 
        title="PostgreSQL" alt="PostgreSQL" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" 
