@@ -1,4 +1,4 @@
-![image](https://github.com/michellemounde/michellemounde/assets/84005549/17d24ab6-7249-4a96-8d82-b9c24ca92470)### Hey there 👋
+### Hey there 👋
 
 <!--
 **michellemounde/michellemounde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
