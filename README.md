@@ -1,4 +1,4 @@
-### Hey there 👋
+![image](https://github.com/michellemounde/michellemounde/assets/84005549/17d24ab6-7249-4a96-8d82-b9c24ca92470)### Hey there 👋
 
 <!--
 **michellemounde/michellemounde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,25 +22,25 @@ Here are some ideas to get you started:
        title="React" alt="React" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
        title="Redux" alt="Redux " width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" 
        title="Flask" alt="Flask" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"
        title="Django" alt="Django" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
        title="ExpressJS" alt="Express" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"
        title="HTML5" alt="HTML" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" 
        title="CSS3" alt="CSS" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"    
        title="TailwindCSS" alt="TailwindCSS" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" 
        title="PostgreSQL" alt="PostgreSQL" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" 
        title="SQLite" alt="SQLite" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" 
        title="Sequelize" alt="Sequelize" width="75" height="75"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" 
        title="SQLAlchemy" alt="SQLAlchemy" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" 
        title="Mocha" alt="Mocha" width="75" height="75"/>&nbsp;
@@ -48,11 +48,11 @@ Here are some ideas to get you started:
        title="Pytest" alt="Pytest" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"
        title="Jest" alt="Jest" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
        title="NodeJS" alt="NodeJS" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
        title="NPM" alt="NPM " width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
        title="Git" alt="Git" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"
        title="Github" alt="Github" width="75" height="75"/>&nbsp;
