@@ -20,14 +20,14 @@ Here are some ideas to get you started:
        title="Docker" **alt="Docker" width="75" height="75"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
        title="React" alt="React" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
+       title="Redux" alt="Redux " width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" 
        title="Flask" alt="Flask" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"
        title="Django" alt="Django" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
        title="ExpressJS" alt="Express" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
-       title="Redux" alt="Redux " width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"
        title="HTML5" alt="HTML" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" 
@@ -46,8 +46,6 @@ Here are some ideas to get you started:
        title="Mocha" alt="Mocha" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" 
        title="Pytest" alt="Pytest" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" 
-       title="Unittest" alt="Unittest" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"
        title="Jest" alt="Jest" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
