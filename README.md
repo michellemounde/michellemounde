@@ -34,7 +34,7 @@ Here are some ideas to get you started:
        title="HTML5" alt="HTML" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" 
        title="CSS3" alt="CSS" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"    
        title="TailwindCSS" alt="TailwindCSS" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" 
        title="PostgreSQL" alt="PostgreSQL" width="75" height="75"/>&nbsp;
