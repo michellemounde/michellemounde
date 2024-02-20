@@ -50,7 +50,6 @@ Here are some ideas to get you started:
        title="Pytest" alt="Pytest" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"
        title="Jest" alt="Jest" width="75" height="75"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
        title="NPM" alt="NPM " width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
