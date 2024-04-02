@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey 👋
 
 <!--
 **michellemounde/michellemounde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,9 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently focusing on building my portfolio, contributing to open source and on a job search.
 - 🌱 I completed the Full-Stack Software Engineering curriculum on App Academy Open.
-- ⚡ Fun fact: I made a career switch from QS to CS to CS (Quantity Surveying to Customer Service to Computer Science).
 
 ### :hammer_and_wrench: Skills:
 <div>
